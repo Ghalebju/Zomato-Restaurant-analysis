@@ -10,4 +10,4 @@ In the uploaded folder you can find all the python notebooks I worked on for the
 You can also find the last updated data set (after cleaning, consistency checks) with only quantitative variables. This data set was the one used for the regression analysis and the clustering analysis. 
 
 We also finished our work by preparing a Tableau presentation for the whole project.
-# Tableau link:https://public.tableau.com/app/profile/ghaleb.ju/viz/08_PreparingaDataAnalyticsPortfolio-LASTVERSION/Story1?publish=yes 
+# Tableau link:https: //public.tableau.com/app/profile/ghaleb.ju/viz/08_PreparingaDataAnalyticsPortfolio-LASTVERSION/Story1?publish=yes 
